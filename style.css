@@ -1,0 +1,30 @@
+body{
+    background: gray;
+    width: 600px;
+    margin: auto;
+}
+ header h1{
+    background: white;
+}
+.post-header {
+    background: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+
+}
+.post-header span {
+    color: grey;
+}
+/*.post-header .derecha-3{
+    
+    justify-content: space-between;
+}*/
+img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.contain-2 p {
+    background: white;
+}
